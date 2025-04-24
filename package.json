@@ -1,7 +1,7 @@
 {
-  "name": "nexus-template-website",
+  "name": "nexus-chatgpt",
   "version": "1.0.0",
-  "description": "A developer template to embed existing websites into Nexus.",
+  "description": "A ChatGPT module for Nexus.",
   "author": "aarontburn",
   "scripts": {
     "start": "npm run dev_export && cd ./node_modules/@nexus/nexus-client/ && npm start",
